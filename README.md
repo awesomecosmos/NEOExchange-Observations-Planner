@@ -3,6 +3,8 @@ This GitHub repository contains all relevant files and outputs relating to this 
 
 **Developer:** Aayushi Verma
 
+This code is currently a work in progress. Additional functionalities are being added. 
+
 ## Directory Structure of Files
 
 **NEOExchange-Obs-Planner.ipynb** is the main working code.
