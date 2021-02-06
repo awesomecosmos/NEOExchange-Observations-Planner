@@ -8,4 +8,6 @@ This code is currently a work in progress. Additional functionalities are being 
 
 ## Directory Structure of Files
 
-**NEOExchange-Obs-Planner.ipynb** is the main working code.
+`NEOExchange-Obs-Planner.ipynb` is the main working code.
+
+`TargetInfo/` contains HTMLs for each target with target information. This can be printed out or saved as a PDF to assist when observing.
