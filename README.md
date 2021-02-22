@@ -4,7 +4,6 @@ This GitHub repository contains all relevant files and outputs relating to this 
 **Developer:** Aayushi Verma
 
 This code is currently a work in progress. Additional functionalities are being added. 
-(Last update: 6th Feb'21)
 
 ## Directory Structure of Files
 
