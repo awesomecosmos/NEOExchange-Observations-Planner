@@ -10,6 +10,6 @@ This code is currently a work in progress. Additional functionalities are being 
 
 `NEOExchange-Obs-Planner.ipynb` is the main working code.
 
-`TargetInfo/` contains HTMLs for each target with target information. This can be printed out or saved as a PDF to assist when observing.
+`sample_targets.txt` is a sample text file demonstrating the formatting of the input target list. 
 
 [![astropy](http://img.shields.io/badge/powered%20by-AstroPy-orange.svg?style=flat)](http://www.astropy.org/)
