@@ -1,3 +1,6 @@
 Plots/
 TargetInfo/
 .ipynb_checkpoints/
+*.txt
+_pycache__
+.ipynb_checkpoints
