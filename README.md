@@ -24,6 +24,6 @@ Fork the Jupyter notebook `NEOExchange-Obs-Planner.ipynb` and change the variabl
 
 [![astropy](http://img.shields.io/badge/powered%20by-AstroPy-orange.svg?style=flat)](http://www.astropy.org/)
 
-<img src="obs_planner_qr_code.png" alt="drawing" width="200"/>
+<img src="Misc/obs_planner_qr_code.png" alt="drawing" width="200"/>
 
-<!-- ![QR Code to this repository](https://github.com/awesomecosmos/NEOExchange-Observations-Planner/blob/main/obs_planner_qr_code.png?raw=true =20x) -->
+<!-- ![QR Code to this repository](https://github.com/awesomecosmos/NEOExchange-Observations-Planner/blob/main/Misc/obs_planner_qr_code.png?raw=true =20x) -->
